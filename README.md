@@ -13,6 +13,12 @@
   <a href="https://discord.com/servers/907385605422448742"><img src="https://img.shields.io/discord/907385605422448742?style=for-the-badge&color=c6a0f6&labelColor=363a4f&logo=discord&logoColor=cad3f5"></a>
   <a href="https://github.com/thethemestudio/thethemestudio/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=302d41&colorB=c9cbff"/></a>
 </p>
+&nbsp;
+
+<p align="center">
+The Theme Studio is a place where the most calm and pastel-like themes can be found. Originally made as a hub for all the themes and packs made by <a href="https://github.com/dummy3ye"><b>@dummy3ye</b></a> and some fellow themers. <a href="https://github.com/dummy3ye"><b>The organization</b></a> records all the themes by either hosting the repo or keeping an up-to-date fork. as of now the studio holds 2 themes.
+</p>
+
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 <p align="center">Copyright &copy; 2026-present <a href="https://github.com/thethemestudio" target="_blank">the theme studio</a>
